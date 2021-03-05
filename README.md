@@ -13,4 +13,5 @@ A simple python tool for spaming emails
 - sudo chmod +x *
 - apt update
 - apt install python3-pip
+- pip3 install smtplib
 - python3 spam-email.py
